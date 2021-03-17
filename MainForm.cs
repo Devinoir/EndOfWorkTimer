@@ -19,7 +19,7 @@ namespace EndOfWorkTimer{
 		    getDate();
 		    loadColorFromFile();
 		   	loadFromFile();
-		   	MessageBox.Show("Task failed successfully!", "Attention", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+		   	//MessageBox.Show("Task failed successfully!", "Attention", MessageBoxButtons.OK, MessageBoxIcon.Warning);
 		}
 		
 		public TimeSpan ts;
