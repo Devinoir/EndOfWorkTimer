@@ -1,0 +1,6 @@
+C:\Data\Documents\SharpDevelop Projects\HelloWorld\EndOfWorkTimer\bin\Release\EndOfWorkTimer.exe.config
+C:\Data\Documents\SharpDevelop Projects\HelloWorld\EndOfWorkTimer\bin\Release\EndOfWorkTimer.exe
+C:\Data\Documents\SharpDevelop Projects\HelloWorld\EndOfWorkTimer\obj\Release\EndOfWorkTimer.csprojResolveAssemblyReference.cache
+C:\Data\Documents\SharpDevelop Projects\HelloWorld\EndOfWorkTimer\obj\Release\EndOfWorkTimer.MainForm.resources
+C:\Data\Documents\SharpDevelop Projects\HelloWorld\EndOfWorkTimer\obj\Release\EndOfWorkTimer.csproj.GenerateResource.Cache
+C:\Data\Documents\SharpDevelop Projects\HelloWorld\EndOfWorkTimer\obj\Release\EndOfWorkTimer.exe

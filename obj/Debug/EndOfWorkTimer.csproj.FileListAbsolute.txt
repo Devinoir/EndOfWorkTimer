@@ -1,0 +1,17 @@
+C:\Data\Documents\SharpDevelop Projects\HelloWorld\EndOfWorkTimer\bin\Debug\EndOfWorkTimer.exe.config
+C:\Data\Documents\SharpDevelop Projects\HelloWorld\EndOfWorkTimer\bin\Debug\EndOfWorkTimer.exe
+C:\Data\Documents\SharpDevelop Projects\HelloWorld\EndOfWorkTimer\bin\Debug\EndOfWorkTimer.pdb
+C:\Data\Documents\SharpDevelop Projects\HelloWorld\EndOfWorkTimer\obj\Debug\EndOfWorkTimer.csprojResolveAssemblyReference.cache
+C:\Data\Documents\SharpDevelop Projects\HelloWorld\EndOfWorkTimer\obj\Debug\EndOfWorkTimer.MainForm.resources
+C:\Data\Documents\SharpDevelop Projects\HelloWorld\EndOfWorkTimer\obj\Debug\EndOfWorkTimer.csproj.GenerateResource.Cache
+C:\Data\Documents\SharpDevelop Projects\HelloWorld\EndOfWorkTimer\obj\Debug\EndOfWorkTimer.exe
+C:\Data\Documents\SharpDevelop Projects\HelloWorld\EndOfWorkTimer\obj\Debug\EndOfWorkTimer.pdb
+C:\Users\neugebauer\source\repos\EndOfWorkTimer\bin\Debug\EndOfWorkTimer.exe.config
+C:\Users\neugebauer\source\repos\EndOfWorkTimer\bin\Debug\EndOfWorkTimer.exe
+C:\Users\neugebauer\source\repos\EndOfWorkTimer\bin\Debug\EndOfWorkTimer.pdb
+C:\Users\neugebauer\source\repos\EndOfWorkTimer\obj\Debug\EndOfWorkTimer.MainForm.resources
+C:\Users\neugebauer\source\repos\EndOfWorkTimer\obj\Debug\EndOfWorkTimer.csproj.GenerateResource.Cache
+C:\Users\neugebauer\source\repos\EndOfWorkTimer\obj\Debug\EndOfWorkTimer.exe
+C:\Users\neugebauer\source\repos\EndOfWorkTimer\obj\Debug\EndOfWorkTimer.pdb
+C:\Users\neugebauer\source\repos\EndOfWorkTimer\obj\Debug\EndOfWorkTimer.csprojAssemblyReference.cache
+C:\Users\neugebauer\source\repos\EndOfWorkTimer\obj\Debug\EndOfWorkTimer.csproj.CoreCompileInputs.cache
